@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola Mundo 👋
 
-<!--
-**Brun025-5/Brun025-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mí
 
-Here are some ideas to get you started:
+## Intereses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Lenguajes y Herramientas
+
+- **Lenguajes:** Java, Python, C, C++
+- **Frameworks y Librerías:**  
+- **Herramientas y Entornos:** Git, GitHub Actions, Linux  
+- **Bases de Datos:** MySQL
+- **Otras tecnologías:** JUnit  
+
+## Proyectos Destacados
+
+
+## Contacto
+
+- Correo: brurrome@espol.edu.ec 
+- LinkedIn: [linkedin.com/in/usuario](https://linkedin.com/in/usuario)  
+- GitHub: [github.com/usuario](https://github.com/usuario)  
+
+## Certificaciones y Logros
+
+
+---
