@@ -23,7 +23,13 @@ Soy una persona apasionada por las tecnologías nuevas y tradicionales, y el apr
 - **Otras tecnologías:** JUnit, Markdown   
 
 ## Proyectos Destacados
-
+ 
+| Proyecto      | Descripción | Tecnologías Usadas | Repositorio |
+| :---        |    :----    |    :----:   |  :---: | 
+| *Currículum*      | Mi CV en un sitio web personal: visión clara de mi trayectoria profesional. | HTML, CSS, Markdown | [Ver](https://github.com/Brun025-5/curriculum) |
+| *EZCars*      | App de tienda de vehículos: experiencia vendedor y comprador. | Java, JavaFx | [Ver](https://github.com/davexat/ED_IziCarsEC) |
+| *20Preguntas*      | Juego de adivinanzas: uso e interacción con árboles . | Java, CSS, JavaFx | [Ver](https://github.com/davexat/20preguntas) |
+| *Menú en Assembler*      | Menú de miniaplicaciones en Assembler: bajo nivel y gestión eficiente. | Assembler, C | [Ver](https://github.com/Brun025-5/ProyectoOCP1) |
 
 
 ## Contacto
